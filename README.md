@@ -1,4 +1,6 @@
-### Hi there 👋
+### Всем привет 👋
+
+#### Если у вас есть интеренася работа для меня - пишите в телегам: @errorsoft
 
 <!--
 **errorcalc/errorcalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
