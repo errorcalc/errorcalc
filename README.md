@@ -2,6 +2,12 @@
 
 #### Если у вас есть интересная работа для меня - пишите в телегам: @errorsoft
 
+---
+
+### Hi there 👋
+
+#### If you have an interesting job for me - write to telegram: @errorsoft
+
 <!--
 **errorcalc/errorcalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
